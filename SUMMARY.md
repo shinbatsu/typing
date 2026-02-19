@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Руководство по освоению быстрой печати](README.md)
+* [Слевая печать](README.md)
 * [Терминология](terminologiya.md)
-* [Подготовка](podgotovka.md)
-* [Мотивация - задачи](motivaciya-zadachi.md)
+* [Введение](motivaciya-zadachi.md)
+* [Подготовка к печати](podgotovka.md)
 * [Знакомство с Monkeytype](znakomstvo-s-monkeytype.md)
 * [Краткое описание этапов](kratkoe-opisanie-etapov.md)
 * [1 - Учим пальцы попадать](uchim-palcy-popadat.md)
