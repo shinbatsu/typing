@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Слевая печать](README.md)
+* [Слепая печать](README.md)
 * [Терминология](terminologiya.md)
 * [Введение](motivaciya-zadachi.md)
 * [Подготовка к печати](podgotovka.md)

@@ -1,8 +1,8 @@
-# Слевая печать
+# Слепая печать
 
 ## Онлайн версия
 
-[Git Book](https://malware-analysis-department.gitbook.io/the-typing/)
+[Git Book](https://dev-stuff.gitbook.io/the-typing/)
 
 ## О чем это
 
